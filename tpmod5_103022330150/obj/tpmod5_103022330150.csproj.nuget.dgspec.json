@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Konstruksi PL\\tpmod5_103022330150\\tpmod5_103022330150\\tpmod5_103022330150.csproj": {}
+    "C:\\Konstruksi PL\\TPmod5_103022330150\\tpmod5_103022330150\\tpmod5_103022330150.csproj": {}
   },
   "projects": {
-    "C:\\Konstruksi PL\\tpmod5_103022330150\\tpmod5_103022330150\\tpmod5_103022330150.csproj": {
+    "C:\\Konstruksi PL\\TPmod5_103022330150\\tpmod5_103022330150\\tpmod5_103022330150.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Konstruksi PL\\tpmod5_103022330150\\tpmod5_103022330150\\tpmod5_103022330150.csproj",
+        "projectUniqueName": "C:\\Konstruksi PL\\TPmod5_103022330150\\tpmod5_103022330150\\tpmod5_103022330150.csproj",
         "projectName": "tpmod5_103022330150",
-        "projectPath": "C:\\Konstruksi PL\\tpmod5_103022330150\\tpmod5_103022330150\\tpmod5_103022330150.csproj",
+        "projectPath": "C:\\Konstruksi PL\\TPmod5_103022330150\\tpmod5_103022330150\\tpmod5_103022330150.csproj",
         "packagesPath": "C:\\Users\\Donnn\\.nuget\\packages\\",
         "outputPath": "C:\\Konstruksi PL\\tpmod5_103022330150\\tpmod5_103022330150\\obj\\",
         "projectStyle": "PackageReference",
